@@ -1,0 +1,20 @@
+{
+  "name": "cse341_week_1",
+  "version": "1.0.0",
+  "description": "week 1 project",
+  "homepage": "https://github.com/ernest-ojakol/cse341#readme",
+  "bugs": {
+    "url": "https://github.com/ernest-ojakol/cse341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernest-ojakol/cse341.git"
+  },
+  "license": "ISC",
+  "author": "Ernest Ojakol",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
